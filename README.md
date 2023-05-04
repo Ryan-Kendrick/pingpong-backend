@@ -7,7 +7,7 @@
 3. `npm run knex seed:run`
 2. To obtain the API key for the location data run `npx dotenv-vault build`
 3. Login to generate .env file
-4. npm run dev
+4. `npm run dev`
 
 See https://github.com/dotenv-org/dotenv-vault-core for more information on dotenv.
 
